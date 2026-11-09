@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Hola como va por ahi en casa
-=======
 Hola como va por ahi en clase
->>>>>>> cc639e4 (edito hola.txt)
+
